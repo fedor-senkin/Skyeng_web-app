@@ -1,3 +1,7 @@
+## Навыки и технологии
+``Jira``, ``qase.io``, ``SQL``, `` Postman``, ``Swagger``, ``Trello``, <br>
+``SoapUI``, ``Mockoon``, ``Chrome DevTools``, ``Miro``,  ``Android Studio``,   <br>
+``Charles Proxy``
 ### Тестирование веб-приложения для учителей от Skyeng
 <p> </p>
 <p>Что нужно было сделать: протестировать новую функциональность - добавление личных событий.<p>
